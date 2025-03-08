@@ -38,6 +38,11 @@ section {
   position: absolute;
 }
 
+.img-about img {
+  height: 100%;
+  object-fit: cover;
+}
+
 .card-menu-item img {
   height: 300px;
   object-fit: cover;

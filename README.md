@@ -1,7 +1,7 @@
 # ☕ Café Express
 
 ![image](./src/imgs/print_project/final-project-capture-desktop.png)
-<a href="https://vanderleyoliveira.github.io/coffee-express/" target="blank">Clique aqui</a> para acessar o resultado final do projeto.
+<a href="https://vanderleyoliveira.github.io/coffee-express/" target="_blank">Clique aqui</a> para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias utilizadas:
 

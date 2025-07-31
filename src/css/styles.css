@@ -47,3 +47,9 @@ section {
   height: 300px;
   object-fit: cover;
 }
+
+@media screen and  (max-width: 767px){
+  footer p {
+    font-size: 14px;
+  }
+}
